@@ -10,15 +10,17 @@ body {
 h1 {
   font-family: "Verdana", sans-serif;
   text-align: center;
-    font-size: 3em;
+  font-size: 3em;
 
 }
 
 ol {
   font-family: "Helvetica", sans-serif;
   line-height: 2.5;
-  font-size: 1em;
+  font-size: 0.5em;
    margin: 2em; 
+    padding: 2em;
+
 
 }
 
