@@ -4,6 +4,7 @@ body {
   color: #ffffff;
   max-width: 48rem;
   padding: 0 5%;
+  margin: 0 auto;
 }
 
 h1 {
@@ -16,9 +17,9 @@ p {
 }
 
 p.intro {
-  font-size:
-    line-height:
-    padding:
+  font-size:1.5em;
+    line-height: 1.25;
+    padding:1em;
     border: 0.1em solid #fffff; 
   margin: 1em; 
 }
