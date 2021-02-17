@@ -9,19 +9,22 @@ body {
 
 h1 {
   font-family: "Verdana", sans-serif;
-    text-align: center;
+  text-align: center;
+    font-size:3em;
+
 }
 
 ol {
   font-family: "Helvetica", sans-serif;
   line-height: 2.5;
+    font-size:2em;
+
 }
 
 p.intro {
   text-align: center;
   font-size:1.5em;
-  line-height: 1.25;
-  padding:1em;
-  border: 0.1em solid #fffff; 
+  line-height: 2;
+  padding: 1.5em;
   margin: 1em; 
 }
