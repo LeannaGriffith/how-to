@@ -18,9 +18,10 @@ ol {
 }
 
 p.intro {
+  text-align: center;
   font-size:1.5em;
-    line-height: 1.25;
-    padding:1em;
-    border: 0.1em solid #fffff; 
+  line-height: 1.25;
+  padding:1em;
+  border: 0.1em solid #fffff; 
   margin: 1em; 
 }
