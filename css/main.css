@@ -26,6 +26,8 @@ ol {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding: 0.5em;
+
 }
 
 p.intro {
