@@ -14,17 +14,24 @@ h1 {
 
 }
 
+h2 {
+margin-bottom: 0;
+}
+
 ol {
   font-family: "Helvetica", sans-serif;
   line-height: 2.5;
   font-size: 1em;
     padding: 2em;
+  margin-top: 0;
 
 }
 
  img {
   margin-left: auto;
   margin-right: auto;
+  margin-top:2;
+  margin-bottom:2;
   padding: 5.5em;
 
 }
@@ -44,18 +51,4 @@ a {
 a:hover,
 a:focus {
   background-color: #000;
-}
-
-button {
-  position: fixed; 
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  background-color: white; /* Set a background color */
-  color: black; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 10px; /* Some padding */
-  border-radius: 10px; /* Rounded corners */
-  font-size: 18px; /* Increase font size */
 }
