@@ -69,16 +69,16 @@ margin-bottom: 0;
 
 .list-featured::before {
   top: 1;
-  right: 0;
+  left: 0;
   border-top: 0.1rem solid #fff;
-  border-right: 0.1rem solid #fff;
+  border-left: 0.1rem solid #fff;
 }
 
 .list-featured::after {
   bottom: 0;
-  left: 0;
+  right: 0;
   border-bottom: 0.1rem solid #fff;
-  border-left: 0.1rem solid #fff;
+  border-right: 0.1rem solid #fff;
 }
 
 .list-featured li::marker {
