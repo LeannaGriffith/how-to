@@ -19,7 +19,7 @@ summary {
 h1 {
   font-family: sans-serif;
   text-align: center;
-  margin-bottom: 1; 
+  margin-bottom: 1em; 
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   font-size: 2.5em;
@@ -79,7 +79,7 @@ margin-bottom: 0;
 }
 
 .list-featured::before {
-  top: 1;
+  top: 1em;
   left: 0;
   border-top: 0.1rem solid #fff;
   border-left: 0.1rem solid #fff;
@@ -128,8 +128,8 @@ ul {
  img {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2;
-  margin-bottom: 2;
+  margin-top: 2em;
+  margin-bottom: 2em;
   padding: 2em;
   width: auto;
   max-width: 100%;
@@ -140,8 +140,8 @@ ul {
 p.intro {
   font-size: 1.3em;
   line-height: 2;
-  margin-bottom: 10; 
-  margin-top: 1; 
+  margin-bottom: 10em; 
+  margin-top: 1em; 
   padding: 1em;
   border: 0.1em solid #fff;
   margin: 1em 0;
