@@ -29,7 +29,7 @@ h1 {
 h2 {
    font-family: "Trebuchet MS", sans-serif;
   font-size: 1.5em;
-  font-weight: 1em;
+  font-weight: 1;
   letter-spacing: 0.1rem;
 }
 h2,
@@ -58,7 +58,7 @@ margin-bottom: 0;
 .list .all-caps {
   font-family: "Trebuchet MS", sans-serif;
   font-size: 1.25em;
-  font-weight: 1em;
+  font-weight: 1;
   letter-spacing: 0.1rem;
 }
 
@@ -142,7 +142,7 @@ figure {
 }
 
 img.full-width {
-  width: 100%
+  width: 100%;
   max-width: none;
 }
 
