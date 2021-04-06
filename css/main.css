@@ -131,6 +131,9 @@ ul {
   margin-top: 2;
   margin-bottom: 2;
   padding: 2em;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 
 }
 
